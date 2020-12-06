@@ -1,0 +1,29 @@
+html {
+  background: url(background.PNG) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  margin-top: 14%;
+  margin-bottom: 5%;
+  line-height: 2;
+  /* background-image: url(background.PNG); */
+}
+
+a:visited, a:link, a:active{
+  font-size: 50px;
+  color:white;
+  font-family: 'Bebas Neue', cursive;
+  text-decoration: none;
+}
+
+a:hover{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 150px;
+  color: white;
+  text-decoration:none;
+}
